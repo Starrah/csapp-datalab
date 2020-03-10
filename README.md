@@ -6,4 +6,8 @@ CLion集成开发环境配置项目
 的叙述，实现了把datalab配置在CLion中、设置WSL环境的远程调试等需求所需的一切配置文件，
 **并不包含任何bits.c函数的实现，因此不涉及任何作业要求的内容，不属于违反作业规定。**  
 本代码库后续不会有任何bits.c函数的实现被commit进来，也不接受任何涉及bits.c文件的修改的Pull Request，请大家独立完成作业。  
-
+  
+使用方法：
+1. clone本代码库(git clone https://github.com/Starrah/csapp-datalab.git)  
+2. 用CLion，打开clone后的目录的CMakeLists.txt，Open as Project  
+3. 需要配置自己的WSL Toolchain和Development配置，请见博客中的相关内容。  
