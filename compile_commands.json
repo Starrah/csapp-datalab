@@ -1,0 +1,45 @@
+[
+ {
+  "directory": "D:\\CLionProjects\\datalab",
+  "arguments": [
+   "gcc",
+   "-O",
+   "-Wall",
+   "-m32",
+   "-lm",
+   "-o",
+   "btest",
+   "bits.c",
+   "btest.c",
+   "decl.c",
+   "tests.c"
+  ],
+  "file": "tests.c"
+ },
+ {
+  "directory": "D:\\CLionProjects\\datalab",
+  "arguments": [
+   "gcc",
+   "-O",
+   "-Wall",
+   "-m32",
+   "-o",
+   "fshow",
+   "fshow.c"
+  ],
+  "file": "fshow.c"
+ },
+ {
+  "directory": "D:\\CLionProjects\\datalab",
+  "arguments": [
+   "gcc",
+   "-O",
+   "-Wall",
+   "-m32",
+   "-o",
+   "ishow",
+   "ishow.c"
+  ],
+  "file": "ishow.c"
+ }
+]
